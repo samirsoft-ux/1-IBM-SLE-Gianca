@@ -41,3 +41,22 @@ Imagen objetivo a tener para subir a VPC: sles-15-sp3-s390x-byol
 PARA VMWARE
 Sería el:
 - debería de funcionar cualquier versión
+
+
+##Iniciando lo técnico
+https://cloud.ibm.com/docs/vpc?topic=vpc-create-linux-custom-image
+
+https://www.ibm.com/docs/en/powervc/1.4.4?topic=linux-installing-configuring-cloud-init-sles
+https://softpanorama.org/Net/Linux_networking/Suse_networking/index.shtml
+https://www.tencentcloud.com/document/product/213/9929
+
+vboxuser
+changeme
+
+Administrador
+12S@mir34
+
+265551872
+12208570368
+
+VirtualBox convertfromraw file.iso file.vhd
