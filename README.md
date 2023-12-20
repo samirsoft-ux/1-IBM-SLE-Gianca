@@ -60,3 +60,6 @@ Administrador
 12208570368
 
 VirtualBox convertfromraw file.iso file.vhd
+
+##Probar con el freetrial
+https://www.suse.com/products/sles-for-sap/download/index/
